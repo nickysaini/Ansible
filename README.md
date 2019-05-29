@@ -1,1 +1,1 @@
-# Ansible Scripts for Azure Resorces provisioning and Configuration Managemant.
+# Ansible Scripts for Azure Resources provisioning and Configuration Managemant.
